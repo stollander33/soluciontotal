@@ -4,12 +4,12 @@ layout: Blog
 icon: home
 title: Blog Home
 heroImage: /logo.svg
-heroText: the name of your blog
-tagline: You can put your slogan here
-heroFullScreen: true
+heroText: esto no esta pasando
+tagline: supuestamente...
+heroFullScreen: false
 projects:
   - icon: project
-    name: project name
+    name: One,two
     desc: project detailed description
     link: https://your.project.link
 
