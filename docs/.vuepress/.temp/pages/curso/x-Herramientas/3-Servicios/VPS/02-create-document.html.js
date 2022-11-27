@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-144884a5\",\"path\":\"/curso/x-Herramientas/3-Servicios/VPS/02-create-document.html\",\"title\":\"MongoDB 创建文档\",\"lang\":\"es-ES\",\"frontmatter\":{\"title\":\"MongoDB 创建文档\",\"date\":\"2019-09-09T20:03:32.000Z\",\"categories\":[\"backEnd\"],\"tags\":[\"mongoDB\"],\"summary\":\"一、创建数据库 使用 use databaseName 命令切换数据库，如果数据库不存在则创建 使用 show collections 命令查看数据库下的所有集合，新建的数据库的集合为 0 个 二、db.collection.insertOne()创建当个文档 The insertOne() method has the following syntax: \",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://fedora/curso/x-Herramientas/3-Servicios/VPS/02-create-document.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"Supuestamente\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"MongoDB 创建文档\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"es-ES\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"mongoDB\"}],[\"meta\",{\"property\":\"article:published_time\",\"content\":\"2019-09-09T20:03:32.000Z\"}],[\"link\",{\"rel\":\"canonical\",\"href\":\"https://supuestamente.es/curso/x-Herramientas/3-Servicios/VPS/02-create-document.html\"}]]},\"excerpt\":\"\",\"headers\":[{\"level\":2,\"title\":\"一、创建数据库\",\"slug\":\"一、创建数据库\",\"children\":[]},{\"level\":2,\"title\":\"二、db.collection.insertOne()创建当个文档\",\"slug\":\"二、db-collection-insertone-创建当个文档\",\"children\":[]},{\"level\":2,\"title\":\"三、db.collection.insertOne 操作失败的情况\",\"slug\":\"三、db-collection-insertone-操作失败的情况\",\"children\":[]},{\"level\":2,\"title\":\"四、自动生成文档主键\",\"slug\":\"四、自动生成文档主键\",\"children\":[]},{\"level\":2,\"title\":\"五、db.collection.insertMany()创建多个文档\",\"slug\":\"五、db-collection-insertmany-创建多个文档\",\"children\":[]},{\"level\":2,\"title\":\"六、db.collection.insertMany 操作失败的情况\",\"slug\":\"六、db-collection-insertmany-操作失败的情况\",\"children\":[]},{\"level\":2,\"title\":\"七、db.collection.insert() 创建一个或多个文档\",\"slug\":\"七、db-collection-insert-创建一个或多个文档\",\"children\":[]},{\"level\":2,\"title\":\"八、db.collection.insert() 操作失败的情况\",\"slug\":\"八、db-collection-insert-操作失败的情况\",\"children\":[]},{\"level\":2,\"title\":\"九、db.collection.save() 保存文档\",\"slug\":\"九、db-collection-save-保存文档\",\"children\":[]},{\"level\":2,\"title\":\"十、ObjectId() 文档主键\",\"slug\":\"十、objectid-文档主键\",\"children\":[]},{\"level\":2,\"title\":\"十一、 复合主键\",\"slug\":\"十一、-复合主键\",\"children\":[]},{\"level\":2,\"title\":\"十二、总结\",\"slug\":\"十二、总结\",\"children\":[]}],\"readingTime\":{\"minutes\":7.08,\"words\":2124},\"filePathRelative\":\"curso/x-Herramientas/3-Servicios/VPS/02-create-document.md\",\"localizedDate\":\"9 de septiembre de 2019\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

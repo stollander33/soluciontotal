@@ -10,18 +10,24 @@ export default defineUserConfig({
 
   locales: {
     '/': {
-      lang: 'en-US',
-      title: 'Theme Demo',
-      description: 'A demo for vuepress-theme-hope',
+      lang: 'es-ES',
+      title: 'Supuestamente',
+      description: 'cosas que no suelen pasar...',
     },
-    '/zh/': {
-      lang: 'zh-CN',
-      title: '主题演示',
-      description: 'vuepress-theme-hope 的演示',
-    },
+
   },
 
   theme,
 
   shouldPrefetch: false,
 });
+
+
+/*
+
+    '/zh/': {
+      lang: 'zh-CN',
+      title: '主题演示',
+      description: 'vuepress-theme-hope 的演示',
+    },
+    */

@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-2e22830c\",\"path\":\"/curso/x-Herramientas/3-Servicios/HTTP/01-git-guide.html\",\"title\":\"Git 操作指南(一）\",\"lang\":\"es-ES\",\"frontmatter\":{\"title\":\"Git 操作指南(一）\",\"date\":\"2019-01-28T17:30:20.000Z\",\"categories\":[\"tool\"],\"tags\":[\"git\"],\"summary\":\"一、git 的基本配置 配置用户信息; config 的三个作用域 --local 只对某个仓库有效; --global 对当前用户所有仓库有效; --system 对系统登录的所有用户有效; 显示 config 的配置 git config --list 系统三个作用域的所有配置信息; git config --list --local 当前仓库的配置信息\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://fedora/curso/x-Herramientas/3-Servicios/HTTP/01-git-guide.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"Supuestamente\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"Git 操作指南(一）\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"es-ES\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"git\"}],[\"meta\",{\"property\":\"article:published_time\",\"content\":\"2019-01-28T17:30:20.000Z\"}],[\"link\",{\"rel\":\"canonical\",\"href\":\"https://supuestamente.es/curso/x-Herramientas/3-Servicios/HTTP/01-git-guide.html\"}]]},\"excerpt\":\"\",\"headers\":[{\"level\":2,\"title\":\"一、git 的基本配置\",\"slug\":\"一、git-的基本配置\",\"children\":[]},{\"level\":2,\"title\":\"二、建 Git 仓库\",\"slug\":\"二、建-git-仓库\",\"children\":[]},{\"level\":2,\"title\":\"三、 查看状态\",\"slug\":\"三、-查看状态\",\"children\":[]},{\"level\":2,\"title\":\"四、添加到暂存区\",\"slug\":\"四、添加到暂存区\",\"children\":[]},{\"level\":2,\"title\":\"三、 提交版本记录\",\"slug\":\"三、-提交版本记录\",\"children\":[]},{\"level\":2,\"title\":\"三、理解工作目录、暂存区和版本记录\",\"slug\":\"三、理解工作目录、暂存区和版本记录\",\"children\":[]},{\"level\":2,\"title\":\"四、 重命名的便捷方法\",\"slug\":\"四、-重命名的便捷方法\",\"children\":[]},{\"level\":2,\"title\":\"五、 查看历史版本\",\"slug\":\"五、-查看历史版本\",\"children\":[]},{\"level\":2,\"title\":\"六、 图形界面\",\"slug\":\"六、-图形界面\",\"children\":[]},{\"level\":2,\"title\":\"七、查看分支信息\",\"slug\":\"七、查看分支信息\",\"children\":[]},{\"level\":2,\"title\":\"八、新建和切换分支\",\"slug\":\"八、新建和切换分支\",\"children\":[]},{\"level\":2,\"title\":\"九、 分离头指针\",\"slug\":\"九、-分离头指针\",\"children\":[]},{\"level\":2,\"title\":\"十、.git 目录介绍\",\"slug\":\"十、-git-目录介绍\",\"children\":[]},{\"level\":2,\"title\":\"十一、查看版本号的类型和内容\",\"slug\":\"十一、查看版本号的类型和内容\",\"children\":[]},{\"level\":2,\"title\":\"十二、 头指针\",\"slug\":\"十二、-头指针\",\"children\":[]},{\"level\":2,\"title\":\"十三、 删除分支\",\"slug\":\"十三、-删除分支\",\"children\":[]}],\"readingTime\":{\"minutes\":3.09,\"words\":926},\"filePathRelative\":\"curso/x-Herramientas/3-Servicios/HTTP/01-git-guide.md\",\"localizedDate\":\"28 de enero de 2019\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

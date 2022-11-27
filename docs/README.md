@@ -1,48 +1,44 @@
 ---
 home: true
-layout: Blog
 icon: home
-title: Blog Home
-heroImage: /logo.svg
-heroText: esto no esta pasando
-tagline: supuestamente...
-heroFullScreen: false
-projects:
-  - icon: project
-    name: One,two
-    desc: project detailed description
-    link: https://your.project.link
+title: Bienvenido
+heroImage: /logo.gif
+heroText: Supuestamente...
+tagline: ...esto no esta ocurriendo 💡
+actions:
+  - text: Comenzar 💡
+    link: /curso/
+    type: primary
 
-  - icon: link
-    name: link name
-    desc: link detailed description
-    link: https://link.address
+  - text: Incio 🏠
+    link: /inicio
 
-  - icon: book
-    name: book name
-    desc: Detailed description of the book
-    link: https://link.to.your.book
+features:
+  - title: Seguridad de la información
+    icon: markdown
+    details: Dispositivos e infraestructuras. LVM,RAID,NFS,LUKS y más... 
+    
 
-  - icon: article
-    name: article name
-    desc: Detailed description of the article
-    link: https://link.to.your.article
+  - title: Redes
+    icon: slides
+    details: Protocolos, servicios, redes por software
+  
+  - title: Autenticación & Privacidad
+    icon: layout
+    details: Criptografía, Kerberos, LDAP, freeIPA, tokens
 
-  - icon: friend
-    name: friend name
-    desc: Detailed description of friend
-    link: https://link.to.your.friend
 
-  - icon: /logo.svg
-    name: custom item
-    desc: Detailed description of this custom item
-    link: https://link.to.your.friend
+  - title: Gestión de certificados
+    icon: layout
+    details: SSL
 
-footer: customize your footer text
+  - title: Pentests
+    icon: comment
+    details: Aprender andando...
+    
+
+copyright: false
+footer: false
 ---
 
-This is a blog home page demo.
 
-To use this layout, you should set both `layout: Blog` and `home: true` in the page front matter.
-
-For related configuration docs, please see [blog homepage](https://vuepress-theme-hope.github.io/v2/guide/blog/home/).
